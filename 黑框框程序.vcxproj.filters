@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\NewFilter1">
+      <UniqueIdentifier>{59f66d47-1fdf-43e8-b117-28586db5a1cc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bitmap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="screenManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="key.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Spritecmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="testplay.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Spritewindow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteVB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mapsprite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objectwar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HKK.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="screenManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Database.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="scene.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="key.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Spritecmd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testplay.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Spritewindow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteVB.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objectwar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="验证.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="hkk角色.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="背景.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="战斗背景.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="验证3.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="wizard.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="人物验证.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="敌人验证.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="TitleCommand1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="TitleCommand2.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="TitleCommand3.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="TitleCommandBg.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="TitleSelectorAni.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Arrow.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Actor1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="MenuCommand1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="MenuCommand3.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="MenuCommand2.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="MenuCommand5.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="LevelCommand2.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Enemy2.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Battle2.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Battle1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Weapons1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="BattleResultWindow.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="NormalText_small.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="NormalText.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="BattleWin.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="BattleLose.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="time.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="ItemInfo1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="AlertMsg1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Actor1_bt.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="weapon2.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="weapon3.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="MenuCommandBg.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="MenuBackground.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="ParamsDisplay.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="text1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="女巫.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

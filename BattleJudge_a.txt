@@ -1,0 +1,34 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT,b#,TTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT10#########TTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT,f#################1TTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT10#############b1,     ####TTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT,f##############0,             b###1TTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT10#############b1,                     ####TTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT,f##############0,                             0###0TTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT10#############b1,                                     ####TTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT,f#############01,                                             1###bTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT10#############f,  ,,                                                  ####TTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTT,f##############0,      1#######b                                              1####TTTTT
+TTTTTTTTTTTTTTTTT10#############b1,            ############1                                            ####TTTTT
+TTTTTTTTT,f##############0,                    ##############,                                          ,####TTTT
+TT10#############b1,                           ,###############                                          ####TTTT
+##########0,                                    #################                                         ####TTT
+T####                                           ##################1                                       ####TTT
+T0###,                                         f####   1############,                                      ####TT
+TT####                                         #####     0############                                     ####TT
+TTf###0                                        #####  ,f0##############0                                    ####T
+TTT####                                       f##########################,                               10#####1
+TTT1###b                                      ###############################,                   ,f#############b
+TTTT####                                      ######b1,       ###############             10#############b1,TTTTT
+TTTT,####                                    0#####         0############f        ,f##############0,TTTTTTTTTTTTT
+TTTTT####                                    #########,     ,####01,       ,f#############b1,TTTTTTTTTTTTTTTTTTTT
+TTTTT,####                                 ###########1             ,0#############0,TTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTT####                                ########b1        ,0#############b1,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTT####                                          1b#############0,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTT####                                   1b############b1,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTT####                         ,f##############0,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTT####,                 10#############b1,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTT####         ,f##############0,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTT####1 10#############b1,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTT#############0,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTT0####f,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
